@@ -1,0 +1,23 @@
+* {
+  font-family: "Outfit", serif;
+}
+
+/* HEADER */
+
+#photo {
+    border: 3px solid black;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+a {
+    color: black;
+}
+
+/* MAIN */
+.main-img {
+    width:30%;
+}
