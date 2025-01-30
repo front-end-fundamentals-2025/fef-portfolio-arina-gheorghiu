@@ -18,6 +18,12 @@ a {
 }
 
 /* MAIN */
-.main-img {
-    width:30%;
+main {
+    .main-img {
+        width:40%;
+    }
+    display: flex;
+    p {
+        margin-left: 1rem;
+    }
 }
